@@ -1,12 +1,14 @@
 # include <iostream>
 using namespace std;
+#include <cmath>
+
 
 int main() {
 
   char op;
   float num1, num2;
 
-  cout << "Enter operator: +, -, *, /: ";
+  cout << "Enter operator: +, -, *, /, l (log): ";
   cin >> op;
 
   cout << "Enter two operands: ";
@@ -28,6 +30,10 @@ int main() {
 
     case '/':
       cout << num1 << " / " << num2 << " = " << num1 / num2;
+      break;
+
+    case 'l':
+      cout << "log base " << num1 << " of " << num2 << " = " << log(num2)/log(num1);
       break;
 
     default:

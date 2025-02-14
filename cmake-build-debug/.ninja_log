@@ -1,3 +1,11 @@
 # ninja log v6
 3	332	7612562822052589	CMakeFiles/ProgrammingMeritBadgeCode.dir/5A/5A-Sample_Program.cpp.obj	e144dbd0d3956205
 334	503	7612562825356654	ProgrammingMeritBadgeCode.exe	c7843ad544c88f52
+6	348	7612565965331704	CMakeFiles/ProgrammingMeritBadgeCode.dir/5A/5A-Sample_Program-Modified.cpp.obj	972d850b082dae2b
+5	257	7612566147854207	CMakeFiles/ProgrammingMeritBadgeCode.dir/5A/5A-Sample_Program-Modified.cpp.obj	972d850b082dae2b
+258	346	7612566150382110	ProgrammingMeritBadgeCode.exe	327805ebaaf78921
+5	274	7612566633505389	CMakeFiles/ProgrammingMeritBadgeCode.dir/5A/5A-Sample_Program.cpp.obj	e144dbd0d3956205
+9	277	7612566633545439	CMakeFiles/ProgrammingMeritBadgeCode.dir/5A/5A-Sample_Program-Modified.cpp.obj	972d850b082dae2b
+277	377	7612566636225361	ProgrammingMeritBadgeCode.exe	327805ebaaf78921
+5	304	7612566896112786	CMakeFiles/ProgrammingMeritBadgeCode.dir/5A/5A-Sample_Program-Modified.cpp.obj	972d850b082dae2b
+304	404	7612566899099402	ProgrammingMeritBadgeCode.exe	327805ebaaf78921
