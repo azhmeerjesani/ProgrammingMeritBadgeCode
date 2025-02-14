@@ -1,0 +1,3 @@
+C:/Users/azhme/OneDrive - Clear Creek ISD/Files/Other Folders/Boy Scouts/Merit Badges/Merit Badges/Programming/ProgrammingMeritBadgeCode/cmake-build-debug/CMakeFiles/ProgrammingMeritBadgeCode.dir
+C:/Users/azhme/OneDrive - Clear Creek ISD/Files/Other Folders/Boy Scouts/Merit Badges/Merit Badges/Programming/ProgrammingMeritBadgeCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/azhme/OneDrive - Clear Creek ISD/Files/Other Folders/Boy Scouts/Merit Badges/Merit Badges/Programming/ProgrammingMeritBadgeCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
